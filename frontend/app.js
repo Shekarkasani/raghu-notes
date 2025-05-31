@@ -1,4 +1,4 @@
-const API_URL = 'https://your-backend-url.onrender.com/api/notes';
+const API_URL = 'https://raghu-notes.onrender.com/api/notes';
 
 document.getElementById('noteForm').addEventListener('submit', async (e) => {
   e.preventDefault();
