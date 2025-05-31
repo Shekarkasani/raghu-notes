@@ -1,3 +1,8 @@
+# Raghu Notes
+
+Live website: [https://raghu-notes-1.onrender.com](https://raghu-notes-1.onrender.com)
+
+
 # Raghu Notes 📝
 
 A simple full-stack notes app using:
